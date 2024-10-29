@@ -40,9 +40,13 @@
 <img style="height: 30px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<h4>Data Science</h4>
 <img style="height: 30px" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/Matplotlib-003C30?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/Airflow-00B2B1?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/PySpark-E25A00?style=for-the-badge&logo=apache-spark&logoColor=white"/>
 
 <h4>Tools</h4>
 <img style="height: 30px" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker"/>
@@ -50,5 +54,6 @@
 <img style="height: 30px" src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img style="height: 30px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
 
 </body>
