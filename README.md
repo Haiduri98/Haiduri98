@@ -51,6 +51,7 @@
 <img style="height: 30px" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/Jupyter-DA5B0D?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 <h4>DevOps</h4>
 <img style="height: 30px" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker"/>
