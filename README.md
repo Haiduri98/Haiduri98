@@ -73,6 +73,9 @@
 <h4>Tools</h4>
 <img style="height: 30px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
+<h4>API Technologies:</h4>
+<img style="height: 30px" src="https://img.shields.io/badge/RESTful_API-25A14F?style=for-the-badge&logo=api&logoColor=white"/>
+
 <h4>Operating Systems</h4>
 <img style="height: 30px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img style="height: 30px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
