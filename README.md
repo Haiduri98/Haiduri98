@@ -41,16 +41,14 @@
 <img style="height: 30px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-<h4>Data Science</h4>
+<h4>Data Science & AI</h4>
 <img style="height: 30px" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/Matplotlib-003C30?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/Airflow-00B2B1?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/PySpark-E25A00?style=for-the-badge&logo=apache-spark&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-
-
-<h4>AI</h4>
+<img style="height: 30px" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
@@ -68,7 +66,12 @@
 <img style="height: 30px" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 
+<h4>Cloud Services</h4>
+<img style="height: 30px" src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
+<h4>Tools</h4>
+<img style="height: 30px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 <h4>Operating Systems</h4>
 <img style="height: 30px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
