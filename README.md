@@ -47,6 +47,8 @@
 <img style="height: 30px" src="https://img.shields.io/badge/Matplotlib-003C30?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/Airflow-00B2B1?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
 <img style="height: 30px" src="https://img.shields.io/badge/PySpark-E25A00?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+
 
 <h4>AI</h4>
 <img style="height: 30px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
