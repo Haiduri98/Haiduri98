@@ -13,7 +13,6 @@
         width: fit-content;
       "
     >
-        Currently learning
     </h4>
     <div id="grey-line"></div>
     <div
@@ -25,16 +24,13 @@
         flex-wrap: wrap;
       "
     >
-        <img
-                style="height: 30px"
-                src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white"/>
         <img
                 style="height: 30px"
                 src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
         <img
                 style="height: 30px"
                 src="https://img.shields.io/badge/Angular-D60000?style=for-the-badge&logo=angular&logoColor=white"/>
-        <h4>Working with: </h4>
         <img
                 style="height: 30px"
                 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -62,9 +58,21 @@
         />
         <img
                 style="height: 30px"
-                src="https://img.shields.io/badge/-Git-black?style=for-the-badge&amp;logo=git"
-        />
-        <h4>Working from:</h4>
+                src="https://img.shields.io/badge/-Git-black?style=for-the-badge&amp;logo=git"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/Matplotlib-003C30?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+        <img style="height: 30px" src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+
+
+
+
+
         <img
                 style="height: 30px"
                 src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
