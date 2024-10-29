@@ -56,6 +56,17 @@
 <img style="height: 30px" src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker"/>
 <img style="height: 30px" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
 <img style="height: 30px" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+
+<h4>IDE</h4>
+<img style="height: 30px" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=jetbrainsrider&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
+<img style="height: 30px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+
+
 
 <h4>Operating Systems</h4>
 <img style="height: 30px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
